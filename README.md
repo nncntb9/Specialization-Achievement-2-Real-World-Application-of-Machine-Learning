@@ -6,7 +6,7 @@ This achievement develops an understanding of the application of machine learnin
 
 ## Projects
 This project presents 5 exercises on the following:
-1. Unsupervised Learning Algorithms
+1. Unsupervised Learning Algorithms.
 2. Complex Machine Learning Models and Keras Part 1
 3. Complex Machine Learning Models and Keras Part 2
 4. Evaluating Hyperparameters
